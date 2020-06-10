@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Learning Spanish</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="about_us_description">We are software developer android/iOS \n  made solution for enterprise and custom client \n Ayoub Smatti backend Dev \n Youcef ouali frontend Dev\n Hamadouch Abdelkader Designer </string>
+
+</resources>

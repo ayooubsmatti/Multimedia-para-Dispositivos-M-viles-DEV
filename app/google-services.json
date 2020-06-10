@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233065199975",
+    "firebase_url": "https://learningspanish-5869d.firebaseio.com",
+    "project_id": "learningspanish-5869d",
+    "storage_bucket": "learningspanish-5869d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233065199975:android:6060b11fe99923e1d917c2",
+        "android_client_info": {
+          "package_name": "com.example.learningspanish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233065199975-ffr4qqovl7gfp5r21h57i1vg8af2g587.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvhW_y8SyTdwwX25nuyQ1eujmpN7bjjts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233065199975-ffr4qqovl7gfp5r21h57i1vg8af2g587.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtEmail"
+            android:hint="Your email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/category_phrases"
+            android:textColorHint="@color/category_phrases"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/category_phrases"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/category_phrases"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtName"
+            android:hint="Your name..."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/category_phrases"
+            android:textColorHint="@color/category_phrases"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/category_phrases"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/category_phrases"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtFeedback"
+            android:hint="Your Feedback..."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/category_phrases"
+            android:textColorHint="@color/category_phrases"
+            android:textSize="20sp"
+            android:fontFamily="monospace"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor="@color/category_phrases"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/category_phrases"
+            />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
